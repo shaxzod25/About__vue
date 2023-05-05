@@ -1,5 +1,5 @@
 <template>
-    <footer class="footer">
+    <footer id="footer">
         <div class="container">
             <h2 class="footer__h2">Связаться со мной</h2>
             <ul class="footer_menu">

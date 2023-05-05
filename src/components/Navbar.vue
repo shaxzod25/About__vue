@@ -4,9 +4,9 @@
             <div class="header__wrap">
                 <a href="#" class="logo">PROWEB</a>
                 <ul class="menu">
-                    <li><a href="#" class="menu__link">Обо мне</a></li>
-                    <li><a href="#" class="menu__link">Мои работы</a></li>
-                    <li><a href="#" class="menu__link">Контакт</a></li>
+                    <li><a href="#aboutme" class="menu__link" >Обо мне</a></li>
+                    <li><a href="#work" class="menu__link">Мои работы</a></li>
+                    <li><a href="#footer" class="menu__link">Контакт</a></li>
 
                 </ul>
             </div>

@@ -1,5 +1,5 @@
 <template>
-    <section class="aboutme">
+    <section id="aboutme">
     <div class="container">
         <h2 class="aboutme__heading">Обо мне</h2>
         <div class="aboutme__warp">
