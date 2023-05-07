@@ -5,7 +5,7 @@
 }
 
 .work__heading  {
-    font-family: "Inter-Bold";
+    font-family: "Inter-Bold", sans-serif;
     font-size: 40px;
     font-weight: 700;
     line-height: 48px;
@@ -18,29 +18,31 @@
     height: 550px;
     padding: 15px 15px 27px;
     text-align: center;
-    background: red;
+    background: #B12B06;
     border-radius: 10px;
 }
 
 .card__body {
     margin-top: 20px;
-    font-family: 'Inter-Bold';
+    font-family: 'Inter-Bold', sans-serif;
     font-weight: 700;
 }
 .card__heading {
+    color: white;
     font-size: 20px;
     margin-top: 20px;
     line-height: 24px;
 }
 
 .card__text {
+    color: white;
     font-size: 14px;
     line-height: 17px;
     margin-bottom: 20px;
 }
 
 .btn {
-    font-family: 'Inter-Bold';
+    font-family: 'Inter-Bold', sans-serif;
 font-style: normal;
 font-weight: 700;
 font-size: 20px;

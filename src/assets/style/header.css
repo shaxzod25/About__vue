@@ -31,7 +31,3 @@ header {
     /* font-weight: 400px; */
     transition: 0.3s;
 }
-
-.menu__link:hover {
-    color: red;
-}
